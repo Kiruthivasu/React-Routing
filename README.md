@@ -120,7 +120,3 @@ Through this project, I learned:
 
 GitHub:
 https://github.com/Kiruthivasu
-
----
-
-⭐ If you like this project, consider giving it a star!
